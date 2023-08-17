@@ -6,7 +6,6 @@ There are some issues that you still need to work on to go to the next project b
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBkMDI3OWJlYzRhNWVlNmIyZmE5NjU5NzFlZTA0NDVjZWFhMmQ2NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UdaSUYClr92cjWpeVx/giphy.gif)
 
-![GIF](https://www.funimada.com/assets/images/cards/big/congrats-7.gif)
 # STATUS: APPROVED 💪👏
 
 Congratulations! 🎉
@@ -14,6 +13,8 @@ Congratulations! 🎉
 Your project is complete! There is nothing else to say other than... it's time to merge it :shipit:
 
 <img src="https://media2.giphy.com/media/LlYjGi9rErbLjyaMNr/giphy.gif"/>
+
+![GIF](https://www.funimada.com/assets/images/cards/big/congrats-7.gif)
 
 ## Highlights
 - Good **PR** title ✅ 
