@@ -6,6 +6,8 @@ There are some issues that you still need to work on to go to the next project b
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBkMDI3OWJlYzRhNWVlNmIyZmE5NjU5NzFlZTA0NDVjZWFhMmQ2NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UdaSUYClr92cjWpeVx/giphy.gif)
 
+![require_changes](https://user-images.githubusercontent.com/64643995/260910003-46649d0c-30b4-48a1-81e7-96d8c550f293.gif)
+
 # STATUS: APPROVED 💪👏
 
 Congratulations! 🎉
